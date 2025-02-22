@@ -1,0 +1,2 @@
+# ConcurrentModificationException in Java
+This example demonstrates a common error in Java involving ConcurrentModificationException when modifying an ArrayList during iteration.  The provided solution showcases how to safely modify the list using an Iterator.
